@@ -7,21 +7,21 @@ import classNames from "classnames"
 const blogList = [
   {
     img: "/projects/paint-board.png",
-    title: "Exploring the Canvas Series: Creative Brushes Part 3",
+    title: "如何不太优雅的绕过校园网计费",
     date: "Apr 16, 2024",
-    link: "https://songlh.top/2024/04/16/Exploring-the-Canvas-Series-Creative-Brushes-Part-3/"
+    link: "https://toserhysblog.406418.xyz/posts/%E5%A6%82%E4%BD%95%E4%B8%8D%E5%A4%AA%E4%BC%98%E9%9B%85%E7%9A%84%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%AE%A1%E8%B4%B9/"
   },
   {
     img: "/projects/paint-board.png",
-    title: "Exploring the Canvas Series: Creative Brushes Part 2",
+    title: "基于快速理解Yolo算法原理视频上，记录对于算法的理解",
     date: "Apr 15, 2024",
-    link: "https://songlh.top/2024/04/15/Exploring-the-Canvas-Series-Creative-Brushes-Part-2/"
+    link: "https://toserhysblog.406418.xyz/posts/yolo%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B%E5%A4%A7%E6%A6%82%E7%90%86%E8%A7%A3/"
   },
   {
     img: "/projects/paint-board.png",
-    title: "Exploring the Canvas Series: Creative Brushes Part 1",
+    title: "如何优雅的实现科学上网自由",
     date: "Apr 14, 2024",
-    link: "https://songlh.top/2024/04/14/Exploring-the-Canvas-Series-Creative-Brushes-Part-1/"
+    link: "https://toserhysblog.406418.xyz/posts/%E5%85%B3%E4%BA%8E%E6%A2%AF%E5%AD%90/"
   },
 ]
 
