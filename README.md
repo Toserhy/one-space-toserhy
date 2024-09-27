@@ -18,7 +18,7 @@ One Space is a personal space page dedicated to showing yourself, if you feel go
 
 One Space 是一个专门用于展示自己的个人空间页, 如果感觉不错的话欢迎 Star ⭐️, 感谢支持!
 
-link: [https://about.songlh.top/](https://about.songlh.top/)
+
 
 ![](https://raw.githubusercontent.com/LHRUN/file-store/refs/heads/main/post/one-space.png)
 
