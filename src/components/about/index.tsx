@@ -15,23 +15,11 @@ import classNames from "classnames"
 const contactList = [
   {
     icon: GithubSVG,
-    link: "https://github.com/LHRUN"
-  },
-  {
-    icon: TwitterSVG,
-    link: "https://twitter.com/Song_LongHao"
+    link: "https://github.com/Toserhy"
   },
   {
     icon: GmailSVG,
-    email: "mailto:song.lhlh@gmail.com"
-  },
-  {
-    icon: TelegramSVG,
-    link: "https://twitter.com/Song_LongHao"
-  },
-  {
-    icon: V2exSVG,
-    link: "https://www.v2ex.com/member/LHRUN"
+    email: "astruggleman@outlook.com"
   },
 ]
 
