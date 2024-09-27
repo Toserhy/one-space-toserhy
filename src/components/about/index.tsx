@@ -63,7 +63,7 @@ const About = () => {
         className={classNames("relative cursor-pointer w-64 h-64 group")}
       >
         <Image
-          src="/us.png"
+          src="/profile_cover.jpg"
           alt="profile"
           width={100}
           height={100}
@@ -74,7 +74,7 @@ const About = () => {
           }}
         />
         <Image
-          src="/profile_cover.jpg"
+          src="/us.png"
           alt="profile"
           width={100}
           height={100}
