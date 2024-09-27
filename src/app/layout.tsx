@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Toserhy",
   description: "personal page",
   icons: {
-    icon: "/favicon.svg"
+    icon: "/profile_cover.jpg"
   }
 }
 
