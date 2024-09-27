@@ -3,10 +3,7 @@ import { useInView } from "react-intersection-observer"
 import { SECTION_TYPE } from "../tabs/constants"
 
 import GithubSVG from "@/assets/icon/github.svg"
-import TwitterSVG from "@/assets/icon/twitter.svg"
 import GmailSVG from "@/assets/icon/gmail.svg"
-import TelegramSVG from "@/assets/icon/telegram.svg"
-import V2exSVG from "@/assets/icon/v2ex.svg"
 import Image from "next/image"
 
 import { BreeSerifFont } from "@/common/font"
