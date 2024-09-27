@@ -106,10 +106,10 @@ const About = () => {
           }
         </div>
 
-        Hello, I{"'"}m Leo{"("}宋龙浩{")"}, a Front End Developer with many years of experience. Welcome to my personal space!
+        Hello, I{"'"}m Toserhy{"("}李昊宇{")"}, A standard Chinese student who is unemployed upon graduation. Welcome to my personal space!
 
         <div className="mt-6">
-        I focus on C-end project development, pursuing the ultimate aesthetic design and excellent user experience. In each project, I always maintain a high degree of enthusiasm and focus. I am usually keen to participate in open source projects and constantly explore cutting-edge technologies, and I am committed to creating truly extraordinary works that leave a mark worth remembering.
+        I focused on eating a variety of large pies and piggybacking on skills that would only be useful within school. There are many hobbies such as music, movies, programming, video editing, and occasionally exploring the meaning of life.
         </div>
         
         <div className="mt-6">
