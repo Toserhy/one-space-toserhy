@@ -63,7 +63,7 @@ const About = () => {
         className={classNames("relative cursor-pointer w-64 h-64 group")}
       >
         <Image
-          src="/profile_cover-pixelicious.png"
+          src="/us.png"
           alt="profile"
           width={100}
           height={100}
