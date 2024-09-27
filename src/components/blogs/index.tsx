@@ -64,7 +64,7 @@ const Blogs = () => {
           }
 
           <div className="flex justify-center w-full">
-            <a href="https://songlh.top/archives/" target="_blank" className="inline-flex items-center px-5 py-2 rounded-3xl mt-8 mx-auto cursor-pointer hover:scale-105 transition-all bg-[#2C3333]">
+            <a href="https://toserhysblog.406418.xyz/" target="_blank" className="inline-flex items-center px-5 py-2 rounded-3xl mt-8 mx-auto cursor-pointer hover:scale-105 transition-all bg-[#2C3333]">
               <span className={classNames("text-white mr-4", BreeSerifFont.className)}>View More</span>
               <NavSvg className="w-4 h-4" />
             </a>
