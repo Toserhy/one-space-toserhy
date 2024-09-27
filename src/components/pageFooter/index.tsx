@@ -16,7 +16,7 @@ const PageFooter = () => {
       </div>
       <span className={classNames("text-2xl mt-6", BreeSerifFont.className)}>
         {
-          "Thank you very much for visiting my personal website! I'm passionate about making new friends and am more than happy to communicate about various industry topics or emerging technologies. Feel free to reach out to me with any questions you may have or if you'd like to discuss anything in any direction. thanks!"
+          "Thank you for your interest in this boring carbon-based organism, before it is replaced by a silicon-based organism, I hope we can all focus on life and feel it, instead of being held hostage by grandiose propositions！"
         }
       </span>
     </div>
