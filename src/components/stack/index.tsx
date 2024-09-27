@@ -15,7 +15,7 @@ const stackList = [
   "ElementUI",
   "WeChat",
   "MiniProgram",
-  "SemanticSegmentation",
+  "Unet",
   "Docker",
   "Git",
   "ECharts",
