@@ -10,7 +10,7 @@ const projectList = [
     title: "One Space",
     link: "https://about.songlh.top",
     github: "https://github.com/LHRUN/one-space",
-    desc: "One Space is the current website, as the first window to present myself, welcome to browse!"
+    desc: "One Space is the current website, as the first window to present myself, welcome to browse!",
     author:"relao"
   },
   {
