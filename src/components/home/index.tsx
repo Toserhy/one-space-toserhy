@@ -74,7 +74,7 @@ const Home = () => {
             boxShadow: "rgba(0, 0, 0, 0.25) 0px 5px 20px 0px"
           }}
         >
-          <LEOSvg
+          <ToserhySvg
             width="27"
             height="12"
             viewBox="0 0 27 12"
