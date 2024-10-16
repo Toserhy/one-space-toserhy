@@ -16,7 +16,7 @@ const projectList = [
   {
     img: "/projects/work.svg",
     title: "My Work",
-    desc: "说实话我也不知自己在干什么，生活就像一个粪坑，工作就是里面一坨闪着金光的屎",
+    desc: "说实话我也不知自己在干什么，生活就像一个粪坑，工作就是里面一坨夹着玉米粒的屎",
     maxWidth: "170px"
   }
 ]
